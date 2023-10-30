@@ -25,7 +25,7 @@ Appelez-nous et nous pourrons répondre rapidement à vos besoins.
 
 <br>
 
-Contactec Éloïc Lacombe au 438-822-5046.
+Contactez Éloïc Lacombe au 438-822-5046.
 
 <br>
 
