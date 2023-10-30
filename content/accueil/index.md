@@ -9,7 +9,6 @@ weight: 1
 <div class="container mx-auto">
 <!-- section 1 (header) -->
 
-
 {% row(style="center" bgStyle="full" margin="moderate" reverse="rightreserve" padding="none") %}
 
 # Transport Général Lacombe
