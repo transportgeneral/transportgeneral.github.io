@@ -1,8 +1,8 @@
 # The URL the site will be built for
-base_url = "https://transportgeneral.github.io/"
+base_url = "https://transportgenerallacombe.com"
 # Change this to your own URL! Please note this variable **must** be uncommented.
 
-title = "Transport General"
+title = "Transport Général Lacombe inc"
 description="Unleashing the Power of Decentralized Networks"
 
 # When set to "true", a feed is automatically generated.

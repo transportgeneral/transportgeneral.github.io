@@ -15,7 +15,7 @@ weight: 0
 
 <br>
 
-# Transport Général Lacombe
+# Transport Général Lacombe inc
 
 ### Notre service, votre satisfaction
 
