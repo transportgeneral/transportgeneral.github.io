@@ -29,7 +29,6 @@ Pour tout besoin de transport général au Québec, pensez à Transport Généra
 
 <br>
 
-{% end %}
-
 </div>
 
+{% end %}

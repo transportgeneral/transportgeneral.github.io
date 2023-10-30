@@ -29,7 +29,7 @@ Contactec Éloïc Lacombe au 438-822-5046.
 
 <br>
 
+</div>
 
 {% end %}
 
-</div>
