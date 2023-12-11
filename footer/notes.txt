@@ -1,0 +1,3 @@
+extra:
+  logoPath: "images/transport_logo.png"
+  socialLinks: { Facebook: "https://facebook.com/transportgenerallacombe1"}
