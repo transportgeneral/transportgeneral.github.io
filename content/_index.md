@@ -1,8 +1,8 @@
 ---
 title: "Transport Général Lacombe"
 description: ""
-date: 2018-09-14
-updated: 2021-02-20
+date: 2023-12-10
+updated: 2023-12-10
 draft: false
 sort_by: weight
 weight: 1

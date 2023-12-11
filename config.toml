@@ -3,7 +3,7 @@ base_url = "https://transportgenerallacombe.com"
 # Change this to your own URL! Please note this variable **must** be uncommented.
 
 title = "Transport Général Lacombe inc"
-description="Unleashing the Power of Decentralized Networks"
+description="Transport"
 
 # When set to "true", a feed is automatically generated.
 # generate_feed = true
@@ -53,53 +53,3 @@ external_links_no_referrer = true
 # Whether smart punctuation is enabled (changing quotes, dashes, dots in their typographic form)
 # For example, `...` into `…`, `"quote"` into `“curly”` etc
 smart_punctuation = true
-
-[[taxonomies]]
-name = "categories"
-feed = true
-paginate_by = 2
-paginate_path = "blog-posts"
-
-[[taxonomies]]
-name = "items"
-feed = true
-paginate_by = 2
-paginate_path = "product-posts"
-
-[[taxonomies]]
-name = "roles"
-feed = true
-paginate_by = 2
-paginate_path = "blog-posts"
-
-[[taxonomies]]
-name = "tags"
-feed = true
-paginate_by = 2
-paginate_path = "blog-posts"
-
-[[taxonomies]]
-name = "news-category"
-feed = true
-paginate_by = 6
-paginate_path = "news-card"
-
-[[taxonomies]]
-name = "people"
-feed = true
-paginate_by = 9
-paginate_path = "people"
-
-[[taxonomies]]
-name = "memberships"
-feed = true
-paginate_by = 8
-paginate_path = "people/memberships"
-
-[extra]
-header_class = "customize"
-footer_class = "customize"
-
-
-
-

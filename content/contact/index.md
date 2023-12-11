@@ -1,8 +1,8 @@
 ---
 title: "Contact"
 description: ""
-date: 2018-09-14
-updated: 2021-02-20
+date: 2023-12-10
+updated: 2023-12-10
 draft: false
 weight: 0
 ---
@@ -17,15 +17,15 @@ weight: 0
 
 # Transport Général Lacombe inc
 
-### Notre service, votre satisfaction
+### Notre service, votre satisfaction!
 
-Vous avez besoin de transport général? 
+![image](./img/tgl_img_truck-2.jpg)
+
+### Vous avez besoin de transport général? <br> Appelez-nous et nous pourrons répondre rapidement à vos besoins.
+
 <br>
-Appelez-nous et nous pourrons répondre rapidement à vos besoins.
 
-<br>
-
-Contactez Éloïc Lacombe au 438-822-5046.
+### Contactez Éloïc Lacombe au 438-822-5046.
 
 <br>
 

@@ -16,6 +16,8 @@ extra:
 
 <a href="/accueil"> Accueil </a>
 
+<a href="/services"> Services </a>
+
 <a href="/contact"> Contact </a>
 
 |||

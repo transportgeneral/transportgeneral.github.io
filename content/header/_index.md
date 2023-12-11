@@ -9,4 +9,5 @@ extra:
 ---
 
 - [Accueil]("/accueil")
+- [Services]("/services")
 - [Contact]("/contact")
