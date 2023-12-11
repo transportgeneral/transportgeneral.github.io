@@ -70,7 +70,7 @@ Nous nous spécialisons dans la machinerie, que ce soit dans le domaine agricole
 <br>
 
 ## Disponibilités
-### Nous sommes rejoignables 24h/24h du lundi au samedi!
+### Nous sommes rejoignables 24h/24h du lundi au dimanche!
 <br>
 Peu importe l'heure qu'il est, nous sommes toujours là pour assurer un transport fiable et efficace!
 <br>
