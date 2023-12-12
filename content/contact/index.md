@@ -9,15 +9,14 @@ weight: 0
 
 <div class="container mx-auto">
 
-<!-- section 1 -->
-
-{% row(style="center" bgStyle="full" margin="wide" reverse="rightreserve" padding="both") %}
+{% row(style="center" margin="wide" reverse="rightreserve" padding="both") %}
 
 <br>
 
-# Transport Général Lacombe
-
+# Contact
 ### Notre service, votre satisfaction!
+
+<br>
 
 ![image](./img/tgl_img_truck-2.jpg)
 
@@ -29,7 +28,6 @@ weight: 0
 
 <br>
 
-</div>
-
 {% end %}
 
+</div>

@@ -8,13 +8,12 @@ weight: 1
 ---
 <div class="container mx-auto">
 
-<!-- section 1 (header) -->
-
-{% row(style="center" bgStyle="full" margin="moderate" reverse="rightreserve" padding="none") %}
+{% row(style="center" margin="wide" reverse="rightreserve" padding="both") %}
 
 <br>
 
 # Nos services
+### Tout pour le transport général!
 
 <br>
 
@@ -102,14 +101,11 @@ Transport Général Lacombe se spécialise dans tout ce qui est machinerie, que 
 
 <div class="container mx-auto"> 
 
-<!-- section 3 (header) -->
-
 {% row(style="center" margin="wide" padding="bottom") %}
 
 <br>
 <br>
 <br>
-
 
 <button>[Contactez-nous!](/contact)</button>
 

@@ -6,11 +6,12 @@ updated: 2021-02-20
 draft: false
 weight: 1
 ---
+
 <div class="container mx-auto">
-<!-- section 1 (header) -->
 
+{% row(style="center" margin="wide" reverse="rightreserve" padding="both") %}
 
-{% row(style="center" bgStyle="full" margin="moderate" reverse="rightreserve" padding="none") %}
+<br>
 
 # Transport Général Lacombe
 ### Besoin de transport général?
@@ -31,6 +32,6 @@ Pour tout besoin de transport général au Québec, pensez à Transport Généra
 
 <br>
 
-</div>
-
 {% end %}
+
+</div>
