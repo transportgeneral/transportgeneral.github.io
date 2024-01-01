@@ -20,11 +20,17 @@ weight: 0
 
 ![image](./img/tgl_img_truck-2.jpg)
 
-### Vous avez besoin de transport général? <br> Appelez-nous et nous pourrons répondre rapidement à vos besoins.
+### Vous avez besoin de transport général? <br> Contactez-nous et nous pourrons répondre rapidement à vos besoins.
 
 <br>
 
-### Contactez Éloïc Lacombe au 438-822-5046.
+### Téléphone
+
+<a href="phone:438-822-5046">438-822-5046</a>
+
+### Courriel
+
+<a href="mailto:transportgenerallacombe@gmail.com">transportgenerallacombe@gmail.com</a>
 
 <br>
 

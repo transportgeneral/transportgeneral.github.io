@@ -5,7 +5,7 @@ insert_anchor_links: "left"
 template: "partials/footer.html"
 extra:
   logoPath: "images/transport_logo.png"
-  socialLinks: { Facebook: "https://facebook.com/transportgenerallacombe"}
+  socialLinks: { Email: "mailto:transportgenerallacombe@gmail.com", Phone: "tel:438-822-5046"}
 ---
 
 {% row(style="lean") %}
@@ -24,7 +24,8 @@ extra:
 
 ### Nous rejoindre
 
-<p> 438-822-5046 </p>
+<p> Téléphone : <a href="phone:438-822-5046">438-822-5046</a> </p>
+<p> Courriel : <a href="mailto:transportgenerallacombe@gmail.com">transportgenerallacombe@gmail.com</a> </p>
 
 {% end %}
 
