@@ -26,7 +26,7 @@ weight: 0
 
 ### Téléphone
 
-<a href="phone:438-822-5046">438-822-5046</a>
+<a href="tel:438-822-5046">438-822-5046</a>
 
 ### Courriel
 

@@ -26,7 +26,7 @@ extra:
 
 ### Nous rejoindre
 
-<p> Téléphone : <a href="phone:438-822-5046">438-822-5046</a> </p>
+<p> Téléphone : <a href="tel:438-822-5046">438-822-5046</a> </p>
 <p> Courriel : <a href="mailto:transportgenerallacombe@gmail.com">transportgenerallacombe@gmail.com</a> </p>
 
 {% end %}
