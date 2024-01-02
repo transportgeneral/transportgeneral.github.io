@@ -8,9 +8,7 @@ extra:
   socialLinks: { Phone: "tel:438-822-5046", Email: "mailto:transportgenerallacombe@gmail.com"}
 ---
 
-{% row(style="lean") %}
-
-<br>
+{% row(style="center" margin="wide" padding="both") %}
 
 ### Menu
 
