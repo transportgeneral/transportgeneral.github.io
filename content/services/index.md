@@ -38,7 +38,18 @@ weight: 1
 ## Types de marchandises
 ### Nous sommes là pour livrer la marchandise!
 <br>
-Nous pouvons transporter tout ce qui a trait aux machineries, marchandises spécialisées, marchandises toilées, tracteurs, automobiles et camions, etc.
+Nous pouvons transporter tout ce qui a trait aux machineries, marchandises spécialisées, marchandises toilées, tracteurs, automobiles, camions, pelles mécaniques, chargeurs sur roues, chariots élévateurs, etc. Nos services comprennent autant le transport TL (chargement complet) que le transport LTL (chargement partiel).
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+## Types de livraisons
+### Une livraison selon vos besoins!
+<br>
+Transport Général Lacombe offre une livraison flexible et adaptée à vos projets. Après ramassage de votre marchandise, nous pouvons la livrer directement ou le lendemain.
 <br>
 <br>
 <br>
