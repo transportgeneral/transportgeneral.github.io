@@ -5,7 +5,7 @@ insert_anchor_links: "left"
 template: "partials/footer.html"
 extra:
   logoPath: "images/transport_logo.png"
-  socialLinks: { Email: "mailto:transportgenerallacombe@gmail.com", Phone: "tel:438-822-5046"}
+  socialLinks: { Phone: "tel:438-822-5046", Email: "mailto:transportgenerallacombe@gmail.com"}
 ---
 
 {% row(style="lean") %}
@@ -17,6 +17,8 @@ extra:
 <a href="/accueil"> Accueil </a>
 
 <a href="/services"> Services </a>
+
+<a href="/realisations"> Réalisations </a>
 
 <a href="/contact"> Contact </a>
 

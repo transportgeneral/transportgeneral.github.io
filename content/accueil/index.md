@@ -18,18 +18,25 @@ weight: 1
 
 Nous offrons le transport général sur la Rive-Sud de Montréal et partout ailleurs au Québec.
 
-<button>[Voir nos services](/services)</button>
+<br>
+
+<button>[Voir nos services](/services)</button> <button>[Voir nos réalisations](/realisations)</button>
 
 <br>
 
 ![image](./img/tgl_img_truck_front.jpg#mx-auto)
 
 <br>
+<br>
 
 Pour tout besoin de transport général au Québec, pensez à Transport Général Lacombe!
 
+<br>
+<br>
+
 <button>[Contactez-nous!](/contact)</button>
 
+<br>
 <br>
 
 {% end %}

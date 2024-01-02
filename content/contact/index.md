@@ -20,7 +20,7 @@ weight: 0
 
 ![image](./img/tgl_img_truck-2.jpg)
 
-### Vous avez besoin de transport général? <br> Contactez-nous et nous pourrons répondre rapidement à vos besoins.
+### Vous avez besoin de transport général? <br> <br> Contactez-nous et nous pourrons répondre rapidement à vos besoins.
 
 <br>
 
