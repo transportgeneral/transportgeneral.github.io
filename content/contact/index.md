@@ -24,13 +24,7 @@ weight: 0
 
 <br>
 
-### Téléphone
-
-<a href="phone:438-822-5046">438-822-5046</a>
-
-### Courriel
-
-<a href="mailto:transportgenerallacombe@gmail.com">transportgenerallacombe@gmail.com</a>
+### Contactez Éloïc Lacombe au 438-822-5046.
 
 <br>
 
